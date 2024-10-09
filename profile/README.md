@@ -73,6 +73,7 @@ Our solution is a comprehensive digital platform that leverages advanced technol
 - [Saketh](https://github.com/PavanaSakethaRam)
 - [Roopesh](https://github.com/TechWizard9999)
 - [Raghava](https://github.com/raghavakamuju)
+- [Charan](https://github.com/Charan0313)
 
 ## How It Solves the Problem
 - *Secure Records:* Blockchain ensures safe land and crop records.
